@@ -1,6 +1,6 @@
 ## Hi there, I'm Dawid Kurpiel - aka dkurpi 👋
 
-I’m a self taught Full Stack Developer based in Cracow, Poland and a final year student of the second-degree studies in Robotics at University of Science and Technology, Cracow. 
+I’m a self taught Full Stack Developer based in Cracow, Poland.
 <br/>
 <br/>
 ### Languages and Tools:
